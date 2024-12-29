@@ -62,6 +62,7 @@ public class ArraysAndCollectionsAssignment {
 		Integer value = randomNumbers.get(2) + randomNumbers.get(4);
 		System.out.println("value: " +value);
 		
+		//Create a list of the top 5 highest-grossing movies of all time and print out the third movie on the list.
 		System.out.println("****Assignment5****");
 		List<String> moviesList = new ArrayList<String>();
 		moviesList.add("Avatar");
